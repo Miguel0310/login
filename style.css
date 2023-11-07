@@ -1,0 +1,15 @@
+
+#validationContainer {
+    display: none;
+    position: relative;
+    margin-top: 5px;
+}
+
+/* Estilos para las validaciones */
+.valid {
+    color: green;
+}
+
+.invalid {
+    color: red;
+}
